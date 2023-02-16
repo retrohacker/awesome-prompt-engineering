@@ -1,0 +1,17 @@
+https://chatgpt.getlaunchlist.com/
+https://github.com/dair-ai/Prompt-Engineering-Guide
+https://prompts.chat/
+https://f3.al/chatgpt-definitive-resource/
+https://showgpt.co/
+https://www.emergentmind.com/
+https://drive.google.com/file/d/1UOfN0iB_A0rEGYc2CbYnpIF44FupQn2I/view
+https://flowgpt.com/
+https://github.com/f/awesome-chatgpt-prompts
+https://github.com/openai/openai-cookbook
+https://www.gptoverflow.link/
+https://sharegpt.com/explore
+https://github.com/mattnigh/ChatGPT3-Free-Prompt-List
+https://lifearchitect.ai/chatgpt-prompt-book/
+https://quickref.me/chatgpt
+https://saasprompts.com/
+https://rowancheung.gumroad.com/l/chatgptprompts
